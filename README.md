@@ -1,0 +1,2 @@
+# Unlocking_Current_Opportunities_In_Business_Analytics
+This project aims to analyze current market trends, salary insights, and AI applications for Business Analyst roles across various industries. The objective is to provide actionable insights for individuals and companies in the business analytics domain by evaluating factors like job type, industry, location, experience, and salary variations.
