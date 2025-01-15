@@ -104,11 +104,11 @@ Data scraping and exploration involved the following:
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/hemanth379/Unlocking_Current_Opportunities_In_Business_Analytics.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   ccd Unlocking_Current_Opportunities_In_Business_Analytics
    ```
 3. Run the Jupyter notebooks to explore data and visualizations:
    ```bash
